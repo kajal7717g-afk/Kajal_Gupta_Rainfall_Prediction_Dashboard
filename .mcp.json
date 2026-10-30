@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "clario": {
+      "type": "stdio",
+      "command": "C:\\Users\\kajal_fvywslj\\.clario\\runtime\\node-win32-x64.exe",
+      "args": [
+        "C:\\Users\\kajal_fvywslj\\.clario\\mcp-server\\index.js"
+      ],
+      "env": {
+        "CLAR_WORKSPACE": "c:\\Users\\kajal_fvywslj\\OneDrive\\Desktop\\Internship\\Project.Rain",
+        "CLAR_API_URL": "https://hub.clario.chat",
+        "CLAR_JWT": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjkwNGIwZjkxYmU2ZWIwODY3ZGFiYmFhYjU4N2RmYzJlMzNmMDBhMjQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vY2xhcmlvLWFpIiwiYXVkIjoiY2xhcmlvLWFpIiwiYXV0aF90aW1lIjoxNzkzMTk4NDMzLCJ1c2VyX2lkIjoiTmJVRHdmWTd5OWFMWVAya2NMNUNDT250QUpCMyIsInN1YiI6Ik5iVUR3Zlk3eTlhTFlQMmtjTDVDQ09udEFKQjMiLCJpYXQiOjE3OTMzNTgxMjAsImV4cCI6MTc5MzM2MTcyMCwiZW1haWwiOiJrYWphbDc3MTdnQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbImthamFsNzcxN2dAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.dPNXKwCWgWzfvKogTTEAT5iLCcow-PmsFjE0m5Js0j1CVHbNf-XOD4oHT3U5eHowff5O0A67kur6OuHQgMV57Yw07CD3dLMXUyEaftdi8PYdi48JGpR23t0imxwTzLCsuiZYJkfrrRM7T9JCqZB9sclL0TB0GljCTDHkXlK0TX6Iz0e0kdJWnF8EyypPsOjQ7m4ZFVEpF-F6h3XC2uBFE5yLiQZ5MczQgdduCgv4PJbu_IAML_19KphZ53STLGxDfYnSvrU5FXlNjjEMd4K--LRguXPUIQR950D1ZnR4eDONea7bGQJc73vgKgJYbP48WNKva3-QtDwv_RfhpmFOlw",
+        "PATH": "C:\\Users\\kajal_fvywslj\\.clario\\runtime;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\nodejs\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Program Files\\WSL\\;C:\\Users\\kajal_fvywslj\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\;C:\\Users\\kajal_fvywslj\\AppData\\Local\\Programs\\Python\\Python313\\;C:\\Users\\kajal_fvywslj\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\kajal_fvywslj\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\kajal_fvywslj\\AppData\\Roaming\\npm;C:\\Users\\kajal_fvywslj\\AppData\\Local\\Lenovo\\Windsurf\\bin;C:\\Users\\kajal_fvywslj\\AppData\\Local\\Programs\\Antigravity\\bin;C:\\Users\\kajal_fvywslj\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim;C:\\Users\\kajal_fvywslj\\AppData\\Local\\Programs\\Antigravity IDE\\bin"
+      }
+    }
+  }
+}
